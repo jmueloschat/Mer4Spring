@@ -1,2 +1,2 @@
-# Mer4String
+# Mer4Spring
 Gerador de classes para spring boot
